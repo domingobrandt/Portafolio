@@ -1,16 +1,4 @@
-/*=========================================================================================
-    File Name: coming-soon.js
-    Description: Coming Soon
-    ----------------------------------------------------------------------------------------
-    Item Name: Apex - Responsive Admin Theme
-    Version: 2.0
-    Author: PIXINVENT
-    Author URL: http://www.themeforest.net/user/pixinvent
-==========================================================================================*/
 
-/*******************************
-*       js of Countdown        *
-********************************/
 
 $(document).ready(function() {
 
